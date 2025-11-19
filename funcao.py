@@ -13,7 +13,7 @@ while True:
     if condi == 'n':
         contador(minha_linta)
         print("Programa encerrado.")
-        break'
+        break
 
 lista_dobra = []
 def dobra(lst):
